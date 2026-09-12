@@ -147,24 +147,40 @@ Add screenshots of the application here.
 
 ### Sales Order Management
 
-![Sales Order Management](screenshots/salesorder.png)
-
-
-### Customer Management
-
-![Customer Management](screenshots/customer.png)
-
-### Item Management
-
-![Item Management](screenshots/items.png)
+![Sales Order Management](screenshots/salesorders.png)
 
 ### Invoice Management
 
-![Invoice Management](screenshots/invoice.png)
+![Invoice Management](screenshots/invoices.png)
+
+### Payment Management
+
+![Payment Management](screenshots/payments.png)
+
+### Packing Slip Management
+
+![Packing Slip Management](screenshots/packings.png)
+
+### Inventory Management
+
+![Inventory Management](screenshots/items.png)
 
 ### Item Sales & Purchase History
 
-![Item History](screenshots/item-history.png)
+![Item History](screenshots/itemhistory.png)
+
+### Customer Management
+
+![Customer Management](screenshots/customers.png)
+
+
+### Company Management
+
+![Company Management](screenshots/company.png)
+
+
+
+
 
 > Replace these image paths with your actual screenshots.
 
