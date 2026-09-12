@@ -167,7 +167,7 @@ Add screenshots of the application here.
 
 ### Item Sales & Purchase History
 
-![Item History](screenshots/itemhistory.png)
+![Item History](screenshots/item_history.png)
 
 ### Customer Management
 
