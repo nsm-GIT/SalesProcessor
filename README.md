@@ -143,7 +143,7 @@ Add screenshots of the application here.
 
 ### Quotation Management
 
-![Quotaiton Management](screenshots/1. Quote.png)
+![Quotaiton Management](screenshots/quote.png)
 
 ### Customer Management
 
