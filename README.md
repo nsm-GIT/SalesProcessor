@@ -145,6 +145,11 @@ Add screenshots of the application here.
 
 ![Quotaiton Management](screenshots/quote.png)
 
+### Sales Order Management
+
+![Sales Order Management](screenshots/SalesOrder.png)
+
+
 ### Customer Management
 
 ![Customer Management](screenshots/customer.png)
