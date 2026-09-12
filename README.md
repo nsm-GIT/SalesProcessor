@@ -140,7 +140,9 @@ Add screenshots of the application here.
 ### Dashboard
 
 ![SalesProcessor Dashboard](screenshots/dashboard.png)
+### Quotation Management
 
+![Quotaiton Management](screenshots/1. Quote.png)
 ### Customer Management
 
 ![Customer Management](screenshots/customer.png)
