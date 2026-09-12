@@ -190,48 +190,7 @@ Add screenshots of the application here.
 
 ## Windows
 
-Download the latest SalesProcessor installer from the **Releases** section.
-
-After installation, launch:
-
-```text
-SalesProcessor
-```
-
-## From Source
-
-If you are running the project from source:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/SalesProcessor.git
-cd SalesProcessor
-```
-
-Create a virtual environment:
-
-```bash
-python -m venv .venv
-```
-
-Activate it on Windows:
-
-```bash
-.venv\Scripts\activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-python main.py
-```
-
----
+ON REQUEST
 
 # 📋 System Requirements
 
