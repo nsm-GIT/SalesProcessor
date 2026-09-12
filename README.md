@@ -147,7 +147,7 @@ Add screenshots of the application here.
 
 ### Sales Order Management
 
-![Sales Order Management](screenshots/SalesOrder.png)
+![Sales Order Management](screenshots/salesorder.png)
 
 
 ### Customer Management
